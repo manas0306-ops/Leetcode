@@ -26,6 +26,7 @@ This is not Me. It's My Consistency That has a colour GREEN.
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/manas0306-ops/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/manas0306-ops/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -34,4 +35,9 @@ This is not Me. It's My Consistency That has a colour GREEN.
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/manas0306-ops/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/manas0306-ops/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/manas0306-ops/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
