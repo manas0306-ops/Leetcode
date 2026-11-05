@@ -8,6 +8,7 @@ This is not Me. It's My Consistency That has a colour GREEN.
 | ------- |
 | [0213-house-robber-ii](https://github.com/manas0306-ops/Leetcode/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/manas0306-ops/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/manas0306-ops/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/manas0306-ops/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
 |  |
@@ -40,4 +41,13 @@ This is not Me. It's My Consistency That has a colour GREEN.
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/manas0306-ops/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/manas0306-ops/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/manas0306-ops/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/manas0306-ops/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
