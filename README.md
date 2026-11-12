@@ -19,6 +19,7 @@ This is not Me. It's My Consistency That has a colour GREEN.
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/manas0306-ops/Leetcode/tree/master/0412-fizz-buzz) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/manas0306-ops/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/manas0306-ops/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Stack
@@ -59,4 +60,12 @@ This is not Me. It's My Consistency That has a colour GREEN.
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/manas0306-ops/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/manas0306-ops/Leetcode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/manas0306-ops/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
