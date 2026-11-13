@@ -7,6 +7,7 @@ This is not Me. It's My Consistency That has a colour GREEN.
 |  |
 | ------- |
 | [0213-house-robber-ii](https://github.com/manas0306-ops/Leetcode/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/manas0306-ops/Leetcode/tree/master/0217-contains-duplicate) |
 | [0746-min-cost-climbing-stairs](https://github.com/manas0306-ops/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/manas0306-ops/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/manas0306-ops/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -55,6 +56,7 @@ This is not Me. It's My Consistency That has a colour GREEN.
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/manas0306-ops/Leetcode/tree/master/0217-contains-duplicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/manas0306-ops/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
@@ -68,4 +70,8 @@ This is not Me. It's My Consistency That has a colour GREEN.
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/manas0306-ops/Leetcode/tree/master/0412-fizz-buzz) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/manas0306-ops/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
